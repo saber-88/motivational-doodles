@@ -12,21 +12,7 @@
 ---
 
 ## 📸 Preview
-
-> The extension opens a side panel with a random doodle (GIF/PNG) and a motivational quote every 30 minutes — or whenever you manually trigger it.
-
-```
-┌─────────────────────────────────┐
-│         Keep Going! 🎨          │
-│                                 │
-│       [ doodle image here ]     │
-│                                 │
-│  "Code is poetry written for    │
-│        machines."               │
-│                                 │
-│  Take a breath. You've got this │
-└─────────────────────────────────┘
-```
+https://github.com/user-attachments/assets/e8229cea-771a-45a4-95e1-94120863c9f6
 
 ---
 
@@ -147,7 +133,7 @@ This is the quickest way to install and share the extension without publishing t
 
 **Step 1 — Clone the repo**
 ```bash
-git clone https://github.com/karmveer/motivation-doodle.git
+git clone https://github.com/saber-88/motivation-doodle.git
 cd motivation-doodle
 ```
 
@@ -422,7 +408,7 @@ Make sure `package.json` has these fields before packaging:
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/karmveer/motivation-doodle"
+    "url": "https://github.com/saber-88/motivation-doodle"
   }
 }
 ```
@@ -493,7 +479,7 @@ Pull requests are welcome! Here's how to set up for development:
 
 ```bash
 # Clone
-git clone https://github.com/karmveer/motivation-doodle.git
+git clone https://github.com/saber-88/motivation-doodle.git
 cd motivation-doodle
 
 # Install dependencies
@@ -523,7 +509,7 @@ MIT License — see [LICENSE](./LICENSE) for details.
 ## 👤 Author
 
 **Karmveer**
-- GitHub: [@karmveer](https://github.com/karmveer)
+- GitHub: [@karmveer](https://github.com/saber-88)
 - Made with ☕ and way too many motivational quotes
 
 ---
